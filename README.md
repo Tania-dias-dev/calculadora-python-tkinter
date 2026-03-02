@@ -10,7 +10,7 @@ It was created in an **educational context** as part of learning programming and
 - User-friendly graphical interface
 
 ## Screenshot
-![Calculator Screenshot](calculador_tkinter.png)
+![Calculator Screenshot](calculadora_tkinter.png)
 
 ## Technologies
 - Python
